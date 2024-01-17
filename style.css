@@ -1,0 +1,45 @@
+/* #heading{
+    color: red;
+    text-align: center;
+    background-color: bisque;
+} */
+/* p {
+    color: blue;
+     background-color: aquamarine; 
+} */
+/* This is for class */
+
+/* .head{
+    text-align: right;
+    color: red;
+    background-color: aquamarine;
+    border-color: brown;
+    border-radius: 12px;
+    border-style: groove;
+} */
+/* .btn{
+    color: white;
+    background-color: rgb(92, 1, 99);
+} */
+
+/* a{
+    color: blueviolet;
+} */
+
+.main-container
+{
+    background-color: aqua;
+}
+
+body
+{
+    /* background-image: url('comp.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: right bottom; */
+    background: fixed no-repeat left top url(comp.jpeg) #0592b5;
+}
+
+
+
