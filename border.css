@@ -1,0 +1,35 @@
+h1{
+    /* border: 5px solid royalblue; */
+    background-color: royalblue;
+    color: wheat;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* .container1{
+    height: 200px;
+    width: 100%;
+    background-color: bisque;
+    border-style: solid;
+    border-width: 10px;
+} */
+
+p{
+    background-color: green;
+    color: white;
+    width: 600px;
+    border: 10px solid rgba(12, 10, 11,0.5);
+    /* margin-left: 100px;
+    margin-top: 100px; */
+    padding: 20px 10px;
+    outline: 5px solid rgba(27, 94, 167,0.5);
+    font-family: cursive;
+}
+
+button{
+    border: none;
+    background-color: royalblue;
+    color: azure;
+    padding: 10px;
+    border-radius: 10px;
+}
