@@ -1,0 +1,29 @@
+a{
+    /* to remove the underlines*/
+    text-decoration: none;
+    /* Capital form*/
+    text-transform: capitalize;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: hotpink;
+    padding: 5px;
+    border-radius: 5px;
+    color: bisque;
+    /* display: block; */
+}
+
+a:hover{
+    background-color: royalblue;
+}
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: green;
+}
+
+a:active{
+    color: black;
+    background-color: yellow;
+}
