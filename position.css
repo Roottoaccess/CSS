@@ -1,0 +1,31 @@
+.navbar{
+    height: 70px;
+    width: 100%;
+    background-color: rgba(7, 43, 150);
+    color: white;
+    line-height: 70px;
+    padding: 10px;
+    font-family: cursive;
+    /* position: fixed; */
+    position: sticky;
+    top: 0px;
+}
+.container{
+    height: 1200px;
+    width: 100%;
+    background-color: powderblue;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: violet;
+}
+
+button{
+    /* position: absolute;
+    bottom: 0px;
+    right: 0px; */
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
